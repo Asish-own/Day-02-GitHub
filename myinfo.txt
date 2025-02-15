@@ -5,5 +5,9 @@ I am inside my own branch
 
 Chnaged for github
 
+<<<<<<< HEAD
 I chnaged from Github UI
 I am on main Branch and editing
+=======
+I am on my own new branch 
+>>>>>>> asish
